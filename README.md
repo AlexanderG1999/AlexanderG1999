@@ -10,15 +10,13 @@
 <h3 align="left">A little about me:</h3>
 <br>
 
-- 🔭 I’m currently working on **an internship project carried out at JRTEC S.A.S.**
-
-- 🌱 I’m currently learning **Poetry, FastAPI, SQLModel, Docker and Docker compose**
+- 🌱 I’m currently learning **Django, MongoDb, Docker and Docker compose**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **alexanderguillin1999@gmail.com**
 
-- ⚡ Fun fact **In my free time I like playing soccer.**
+- ⚡ Fun fact **In my free time I like playing soccer and video games**
 
 <br>
 
