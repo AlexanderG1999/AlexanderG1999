@@ -41,8 +41,7 @@
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="60" height="40"/>
   </a>
     <a target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/AlexanderG1999/AlexanderG1999/assets/95202925/c390c0f5-2db3-42f9-8041-e5ff0469e263)
-" alt="postgresql" width="60" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="60" height="40"/>
   </a>
     <a target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="40"/>
