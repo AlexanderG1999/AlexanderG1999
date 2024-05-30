@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">I am an Ecuadorian student. I study at the Escuela Politécnica Nacional the career of Computer Engineering.</h3>
+<h3 align="center">I live in Quito, Ecuador. I am a Computer Science Engineer. I studied at Escuela Politécnica Nacional.</h3>
 
 <br>
 <p align="center">
@@ -10,9 +10,9 @@
 <h3 align="left">A little about me:</h3>
 <br>
 
-- 🌱 I’m currently learning **Django, MongoDb, Docker and Docker compose**
+- 🌱 I’m currently learning **Django, Docker and Docker compose**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **alexanderguillin1999@gmail.com**
 
